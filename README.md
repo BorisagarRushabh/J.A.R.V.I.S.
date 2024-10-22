@@ -1,6 +1,3 @@
-Here's a `README.md` template you can use for your project:
-
-```markdown
 # Voice Assistant using Python
 
 This is a simple voice assistant built using Python, which can perform tasks like web searches, Wikipedia queries, opening applications, taking screenshots, and controlling system features such as shutting down, restarting, or locking the system.
@@ -27,7 +24,7 @@ pip install pyttsx3 SpeechRecognition wikipedia webbrowser pywhatkit opencv-pyth
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/voice-assistant-python.git
+   git clone https://github.com/BorisagarRushabh/J.A.R.V.I.S..git
    ```
 
 2. Run the `voice_assistant.py`:
@@ -61,10 +58,3 @@ The assistant can handle the following commands:
 ## Contributing
 
 Feel free to submit issues or fork the repository and make pull requests if you'd like to improve this project or add more features!
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-Replace the `git clone` URL with the actual GitHub repository link, and adjust any other details as necessary.
